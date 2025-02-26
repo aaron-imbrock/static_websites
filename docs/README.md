@@ -20,4 +20,4 @@ Take a break, review the code that was written, review the notes, review the pro
 
 ## Sections
 
-### \* [HTML](./HTML.md)
+#### \* [HTML](./HTML.md)
