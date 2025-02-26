@@ -1,7 +1,5 @@
 ## Project considerations
 
----
-
 #### Remember to take brakes
 
 You will get tired, and confused. Stay consistent and you will learn.
@@ -21,7 +19,5 @@ Buy a notebook and take notes on paper.
 Take a break, review the code that was written, review the notes, review the projects that were built, review the challenges and your solution.
 
 ## Sections
-
----
 
 ### \* [HTML](./HTML.md)
